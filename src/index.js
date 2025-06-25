@@ -3,7 +3,6 @@ import { addPost } from "./components/timeline";
 import parseCoords from "./utils/parseCoords";
 import { showModal } from "./components/modal";
 
-// Добавляем определение input!
 const input = document.getElementById("input");
 
 let isProcessing = false;
